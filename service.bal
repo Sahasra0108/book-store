@@ -3,9 +3,6 @@ import ballerina/persist;
 import book_store.store;
  
 
- 
-
-
 final store:Client sClient = check new();
 
 
